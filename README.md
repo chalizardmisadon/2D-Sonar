@@ -1,4 +1,4 @@
-# 2D-Sonar
+# 2D_Sonar
 Simple project to familiarize with Arduino, servos, and ultrasonic sensors to prepare for Sumobot.
 
 The sonar consists of:
